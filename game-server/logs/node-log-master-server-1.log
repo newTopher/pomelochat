@@ -1,0 +1,434 @@
+[2013-07-15 15:31:54.560] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-15 15:31:54.719] [INFO] console - info: 'socket.io started'
+[2013-07-15 15:31:54.721] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-15 15:31:54.734] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-15 15:31:54.921] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-15 15:31:54.921] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-15 15:31:54.982] [INFO] [default] - [32m[2013-07-15 15:31:54.977] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-15 15:31:55.338] [INFO] [default] - [32m[2013-07-15 15:31:55.314] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-15 15:31:55.339] [INFO] [default] - [32m[2013-07-15 15:31:55.326] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-15 15:31:55.359] [INFO] [default] - [32m[2013-07-15 15:31:55.356] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-15 15:31:55.363] [INFO] [default] - [32m[2013-07-15 15:31:55.361] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 13:41:46.134] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 13:41:47.306] [INFO] console - info: 'socket.io started'
+[2013-07-16 13:41:47.308] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 13:41:47.363] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=3104,frontend=true,serverType=gate locally
+[2013-07-16 13:41:47.409] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-16 13:41:47.920] [INFO] [default] - [32m[2013-07-16 13:41:47.653] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 13:41:47.920] [INFO] [default] - [32m[2013-07-16 13:41:47.705] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 13:41:47.931] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 13:41:47.932] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 13:41:48.712] [INFO] [default] - [32m[2013-07-16 13:41:48.697] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 13:41:48.715] [INFO] [default] - [32m[2013-07-16 13:41:48.710] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-07-16 13:41:48.726] [INFO] [default] - [32m[2013-07-16 13:41:48.693] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 13:41:48.731] [INFO] [default] - [32m[2013-07-16 13:41:48.709] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-16 13:41:48.740] [INFO] [default] - [32m[2013-07-16 13:41:48.743] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 13:41:48.747] [INFO] [default] - [32m[2013-07-16 13:41:48.750] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 13:41:48.758] [INFO] [default] - [32m[2013-07-16 13:41:48.766] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 13:41:48.795] [INFO] [default] - [32m[2013-07-16 13:41:48.802] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 13:41:48.795] [INFO] [default] - [32m[2013-07-16 13:41:48.803] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+[32m[2013-07-16 13:41:48.803] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:00:05.506] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:00:05.664] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:00:05.666] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:00:05.720] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=3014,frontend=true,serverType=gate locally
+[2013-07-16 15:00:05.766] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-16 15:00:05.941] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:00:05.942] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:00:06.021] [INFO] [default] - [32m[2013-07-16 15:00:06.025] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:00:06.069] [INFO] [default] - [32m[2013-07-16 15:00:06.065] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:00:06.396] [INFO] [default] - [32m[2013-07-16 15:00:06.369] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:00:06.398] [INFO] [default] - [32m[2013-07-16 15:00:06.382] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-07-16 15:00:06.399] [INFO] [default] - [32m[2013-07-16 15:00:06.377] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:00:06.399] [INFO] [default] - [32m[2013-07-16 15:00:06.393] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-16 15:00:06.423] [INFO] [default] - [32m[2013-07-16 15:00:06.428] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:00:06.429] [INFO] [default] - [32m[2013-07-16 15:00:06.433] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:00:06.438] [INFO] [default] - [32m[2013-07-16 15:00:06.436] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:00:06.447] [INFO] [default] - [32m[2013-07-16 15:00:06.445] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:00:06.447] [INFO] [default] - [32m[2013-07-16 15:00:06.445] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+[32m[2013-07-16 15:00:06.445] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:02:08.630] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:02:08.789] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:02:08.791] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:02:08.845] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:02:08.894] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-16 15:02:09.063] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:02:09.063] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:02:09.178] [INFO] [default] - [32m[2013-07-16 15:02:09.179] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:02:09.195] [INFO] [default] - [32m[2013-07-16 15:02:09.190] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:02:09.530] [INFO] [default] - [32m[2013-07-16 15:02:09.499] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:02:09.531] [INFO] [default] - [32m[2013-07-16 15:02:09.514] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-07-16 15:02:09.535] [INFO] [default] - [32m[2013-07-16 15:02:09.507] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:02:09.542] [INFO] [default] - [32m[2013-07-16 15:02:09.522] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-16 15:02:09.549] [INFO] [default] - [32m[2013-07-16 15:02:09.554] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:02:09.555] [INFO] [default] - [32m[2013-07-16 15:02:09.559] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:02:09.572] [INFO] [default] - [32m[2013-07-16 15:02:09.569] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:02:09.581] [INFO] [default] - [32m[2013-07-16 15:02:09.576] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:02:09.581] [INFO] [default] - [32m[2013-07-16 15:02:09.576] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+[32m[2013-07-16 15:02:09.576] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:12:29.881] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:12:30.040] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:12:30.042] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:12:30.097] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:12:30.143] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-16 15:12:30.321] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:12:30.322] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:12:30.403] [INFO] [default] - [32m[2013-07-16 15:12:30.403] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:12:30.441] [INFO] [default] - [32m[2013-07-16 15:12:30.433] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:12:30.765] [INFO] [default] - [32m[2013-07-16 15:12:30.731] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:12:30.767] [INFO] [default] - [32m[2013-07-16 15:12:30.743] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-07-16 15:12:30.776] [INFO] [default] - [32m[2013-07-16 15:12:30.746] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:12:30.788] [INFO] [default] - [32m[2013-07-16 15:12:30.762] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-16 15:12:30.796] [INFO] [default] - [32m[2013-07-16 15:12:30.797] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:12:30.807] [INFO] [default] - [32m[2013-07-16 15:12:30.807] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:12:30.816] [INFO] [default] - [32m[2013-07-16 15:12:30.810] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:12:30.827] [INFO] [default] - [32m[2013-07-16 15:12:30.820] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:12:30.827] [INFO] [default] - [32m[2013-07-16 15:12:30.820] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+
+[2013-07-16 15:12:30.828] [INFO] [default] - [32m[2013-07-16 15:12:30.820] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:20:22.146] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:20:22.305] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:20:22.307] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:20:22.361] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:20:22.407] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-07-16 15:20:22.580] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:20:22.581] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:20:22.662] [INFO] [default] - [32m[2013-07-16 15:20:22.664] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:20:22.703] [INFO] [default] - [32m[2013-07-16 15:20:22.698] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:20:23.029] [INFO] [default] - [32m[2013-07-16 15:20:23.006] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:20:23.030] [INFO] [default] - [32m[2013-07-16 15:20:23.024] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-07-16 15:20:23.034] [INFO] [default] - [32m[2013-07-16 15:20:22.997] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:20:23.049] [INFO] [default] - [32m[2013-07-16 15:20:23.054] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:20:23.056] [INFO] [default] - [32m[2013-07-16 15:20:23.009] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-07-16 15:20:23.058] [INFO] [default] - [32m[2013-07-16 15:20:23.063] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:20:23.065] [INFO] [default] - [32m[2013-07-16 15:20:23.063] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:20:23.074] [INFO] [default] - [32m[2013-07-16 15:20:23.072] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:20:23.075] [INFO] [default] - [32m[2013-07-16 15:20:23.072] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+
+[2013-07-16 15:20:23.075] [INFO] [default] - [32m[2013-07-16 15:20:23.072] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:23:15.569] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:23:15.726] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:23:15.728] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:23:15.782] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,port=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:23:15.830] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-16 15:23:16.009] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:23:16.009] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:23:16.072] [INFO] [default] - [32m[2013-07-16 15:23:16.075] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:23:16.128] [INFO] [default] - [32m[2013-07-16 15:23:16.137] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:23:16.419] [INFO] [default] - [32m[2013-07-16 15:23:16.401] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:23:16.421] [INFO] [default] - [32m[2013-07-16 15:23:16.415] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-16 15:23:16.443] [INFO] [default] - [32m[2013-07-16 15:23:16.448] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:23:16.448] [INFO] [default] - [32m[2013-07-16 15:23:16.453] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:23:16.457] [INFO] [default] - [32m[2013-07-16 15:23:16.439] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:23:16.457] [INFO] [default] - [32m[2013-07-16 15:23:16.454] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-16 15:23:16.490] [INFO] [default] - [32m[2013-07-16 15:23:16.500] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:23:16.498] [INFO] [default] - [32m[2013-07-16 15:23:16.508] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:23:16.498] [INFO] [default] - [32m[2013-07-16 15:23:16.508] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+[32m[2013-07-16 15:23:16.508] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:25:44.192] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:25:44.351] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:25:44.353] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:25:44.408] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientport=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:25:44.457] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-16 15:25:44.629] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:25:44.629] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:25:44.717] [INFO] [default] - [32m[2013-07-16 15:25:44.720] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:25:44.760] [INFO] [default] - [32m[2013-07-16 15:25:44.768] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:25:45.058] [INFO] [default] - [32m[2013-07-16 15:25:45.053] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-16 15:25:45.083] [INFO] [default] - [32m[2013-07-16 15:25:45.059] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:25:45.084] [INFO] [default] - [32m[2013-07-16 15:25:45.077] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-16 15:25:45.099] [INFO] [default] - [32m[2013-07-16 15:25:45.108] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:25:45.111] [INFO] [default] - [32m[2013-07-16 15:25:45.115] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:25:45.114] [INFO] [default] - [32m[2013-07-16 15:25:45.122] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:25:45.117] [INFO] [default] - [32m[2013-07-16 15:25:45.120] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:25:45.119] [INFO] [default] - [32m[2013-07-16 15:25:45.123] [INFO] console - [39mwarn: 'error raised: Error: listen EADDRINUSE'
+
+[2013-07-16 15:25:45.119] [INFO] [default] - [32m[2013-07-16 15:25:45.123] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:27:15.615] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:27:15.775] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:27:15.777] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:27:15.832] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=4014,frontend=true,serverType=gate locally
+[2013-07-16 15:27:15.880] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-16 15:27:16.051] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:27:16.051] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:27:16.144] [INFO] [default] - [32m[2013-07-16 15:27:16.145] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:27:16.188] [INFO] [default] - [32m[2013-07-16 15:27:16.195] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:27:16.495] [INFO] [default] - [32m[2013-07-16 15:27:16.473] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:27:16.497] [INFO] [default] - [32m[2013-07-16 15:27:16.489] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-16 15:27:16.514] [INFO] [default] - [32m[2013-07-16 15:27:16.503] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-16 15:27:16.518] [INFO] [default] - [32m[2013-07-16 15:27:16.521] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:27:16.525] [INFO] [default] - [32m[2013-07-16 15:27:16.527] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:27:16.553] [INFO] [default] - [32m[2013-07-16 15:27:16.564] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:27:16.571] [INFO] [default] - [32m[2013-07-16 15:27:16.579] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:27:16.571] [INFO] [default] - [32m[2013-07-16 15:27:16.580] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-16 15:46:53.991] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-16 15:46:54.151] [INFO] console - info: 'socket.io started'
+[2013-07-16 15:46:54.153] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-16 15:46:54.207] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-16 15:46:54.253] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-16 15:46:54.437] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-16 15:46:54.437] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-16 15:46:54.503] [INFO] [default] - [32m[2013-07-16 15:46:54.501] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-16 15:46:54.543] [INFO] [default] - [32m[2013-07-16 15:46:54.545] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-16 15:46:54.841] [INFO] [default] - [32m[2013-07-16 15:46:54.831] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-16 15:46:54.863] [INFO] [default] - [32m[2013-07-16 15:46:54.835] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:46:54.864] [INFO] [default] - [32m[2013-07-16 15:46:54.855] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-16 15:46:54.886] [INFO] [default] - [32m[2013-07-16 15:46:54.888] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-16 15:46:54.889] [INFO] [default] - [32m[2013-07-16 15:46:54.895] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-16 15:46:54.892] [INFO] [default] - [32m[2013-07-16 15:46:54.894] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-16 15:46:54.905] [INFO] [default] - [32m[2013-07-16 15:46:54.909] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-16 15:46:54.908] [INFO] [default] - [32m[2013-07-16 15:46:54.910] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 10:51:49.462] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-17 10:51:50.339] [INFO] console - info: 'socket.io started'
+[2013-07-17 10:51:50.340] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-17 10:51:50.395] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-17 10:51:50.443] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-17 10:51:51.075] [INFO] [default] - [32m[2013-07-17 10:51:50.835] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-17 10:51:51.075] [INFO] [default] - [32m[2013-07-17 10:51:50.869] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-17 10:51:51.085] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-17 10:51:51.085] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-17 10:51:51.900] [INFO] [default] - [32m[2013-07-17 10:51:51.889] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-17 10:51:51.920] [INFO] [default] - [32m[2013-07-17 10:51:51.893] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 10:51:51.920] [INFO] [default] - [32m[2013-07-17 10:51:51.913] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-17 10:51:51.945] [INFO] [default] - [32m[2013-07-17 10:51:51.947] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-17 10:51:51.950] [INFO] [default] - [32m[2013-07-17 10:51:51.955] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-17 10:51:51.951] [INFO] [default] - [32m[2013-07-17 10:51:51.953] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-17 10:51:51.978] [INFO] [default] - [32m[2013-07-17 10:51:51.983] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 10:51:51.979] [INFO] [default] - [32m[2013-07-17 10:51:51.984] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 11:02:17.118] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-17 11:02:17.280] [INFO] console - info: 'socket.io started'
+[2013-07-17 11:02:17.282] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-17 11:02:17.337] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-17 11:02:17.382] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-17 11:02:17.568] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-17 11:02:17.568] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-17 11:02:17.656] [INFO] [default] - [32m[2013-07-17 11:02:17.648] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-17 11:02:17.698] [INFO] [default] - [32m[2013-07-17 11:02:17.694] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-17 11:02:18.003] [INFO] [default] - [32m[2013-07-17 11:02:17.986] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-17 11:02:18.019] [INFO] [default] - [32m[2013-07-17 11:02:17.986] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 11:02:18.020] [INFO] [default] - [32m[2013-07-17 11:02:18.004] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-17 11:02:18.043] [INFO] [default] - [32m[2013-07-17 11:02:18.037] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-17 11:02:18.047] [INFO] [default] - [32m[2013-07-17 11:02:18.048] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-17 11:02:18.049] [INFO] [default] - [32m[2013-07-17 11:02:18.043] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-17 11:02:18.065] [INFO] [default] - [32m[2013-07-17 11:02:18.065] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 11:02:18.066] [INFO] [default] - [32m[2013-07-17 11:02:18.066] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 13:38:22.773] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-17 13:38:23.620] [INFO] console - info: 'socket.io started'
+[2013-07-17 13:38:23.622] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-17 13:38:23.679] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-17 13:38:23.756] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-17 13:38:24.283] [INFO] [default] - [32m[2013-07-17 13:38:24.013] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-17 13:38:24.283] [INFO] [default] - [32m[2013-07-17 13:38:24.109] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-17 13:38:24.294] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-17 13:38:24.295] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-17 13:38:25.100] [INFO] [default] - [32m[2013-07-17 13:38:25.070] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-17 13:38:25.103] [INFO] [default] - [32m[2013-07-17 13:38:25.072] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 13:38:25.111] [INFO] [default] - [32m[2013-07-17 13:38:25.087] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-17 13:38:25.120] [INFO] [default] - [32m[2013-07-17 13:38:25.119] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-17 13:38:25.126] [INFO] [default] - [32m[2013-07-17 13:38:25.125] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-17 13:38:25.139] [INFO] [default] - [32m[2013-07-17 13:38:25.134] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-17 13:38:25.179] [INFO] [default] - [32m[2013-07-17 13:38:25.171] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 13:38:25.179] [INFO] [default] - [32m[2013-07-17 13:38:25.172] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 14:34:28.543] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-17 14:34:28.704] [INFO] console - info: 'socket.io started'
+[2013-07-17 14:34:28.706] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-17 14:34:28.761] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-17 14:34:28.807] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-17 14:34:28.982] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-17 14:34:28.982] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-17 14:34:29.068] [INFO] [default] - [32m[2013-07-17 14:34:29.060] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-17 14:34:29.109] [INFO] [default] - [32m[2013-07-17 14:34:29.110] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-17 14:34:29.414] [INFO] [default] - [32m[2013-07-17 14:34:29.403] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-17 14:34:29.420] [INFO] [default] - [32m[2013-07-17 14:34:29.389] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 14:34:29.421] [INFO] [default] - [32m[2013-07-17 14:34:29.404] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-17 14:34:29.443] [INFO] [default] - [32m[2013-07-17 14:34:29.438] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-17 14:34:29.449] [INFO] [default] - [32m[2013-07-17 14:34:29.443] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-17 14:34:29.461] [INFO] [default] - [32m[2013-07-17 14:34:29.464] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-17 14:34:29.477] [INFO] [default] - [32m[2013-07-17 14:34:29.479] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 14:34:29.478] [INFO] [default] - [32m[2013-07-17 14:34:29.480] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 14:34:39.324] [INFO] [default] - [32m[2013-07-17 14:34:39.325] [INFO] console - [39mundefined
+
+[2013-07-17 14:35:31.570] [INFO] [default] - [32m[2013-07-17 14:35:31.567] [INFO] console - [39mundefined
+
+[2013-07-17 14:35:42.023] [INFO] [default] - [32m[2013-07-17 14:35:42.020] [INFO] console - [39mundefined
+
+[2013-07-17 14:38:01.369] [INFO] [default] - [32m[2013-07-17 14:38:01.370] [INFO] console - [39mundefined
+
+[2013-07-17 14:39:02.849] [INFO] [default] - [32m[2013-07-17 14:39:02.837] [INFO] console - [39mundefined
+
+[2013-07-17 14:39:14.289] [INFO] [default] - [32m[2013-07-17 14:39:14.277] [INFO] console - [39mundefined
+
+[2013-07-17 14:39:29.676] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-07-17 14:39:29.833] [INFO] console - info: 'socket.io started'
+[2013-07-17 14:39:29.835] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=connector-server-1,host=127.0.0.1,port=3150,clientPort=3010,frontend=true,serverType=connector locally
+[2013-07-17 14:39:29.889] [INFO] [default] - Executing E:\Program Files\nodejs\node.exe E:\Apache2.2\htdocs\chat\game-server\app.js,env=development,id=gate-server-1,host=127.0.0.1,clientPort=3014,frontend=true,serverType=gate locally
+[2013-07-17 14:39:29.936] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - try to connect master: "master", "127.0.0.1", 4005
+[2013-07-17 14:39:30.108] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-07-17 14:39:30.108] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-07-17 14:39:30.209] [INFO] [default] - [32m[2013-07-17 14:39:30.199] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-07-17 14:39:30.238] [INFO] [default] - [32m[2013-07-17 14:39:30.237] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "gate-server-1"
+
+[2013-07-17 14:39:30.541] [INFO] [default] - [32m[2013-07-17 14:39:30.527] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 4005
+
+[2013-07-17 14:39:30.566] [INFO] [default] - [32m[2013-07-17 14:39:30.530] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 14:39:30.567] [INFO] [default] - [32m[2013-07-17 14:39:30.547] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 4005
+
+[2013-07-17 14:39:30.584] [INFO] [default] - [32m[2013-07-17 14:39:30.585] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" enter after start...
+
+[2013-07-17 14:39:30.590] [INFO] [default] - [32m[2013-07-17 14:39:30.582] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-07-17 14:39:30.596] [INFO] [default] - [32m[2013-07-17 14:39:30.586] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-07-17 14:39:30.602] [INFO] [default] - [32m[2013-07-17 14:39:30.603] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-07-17 14:39:30.604] [INFO] [default] - [32m[2013-07-17 14:39:30.604] [INFO] \node_modules\pomelo\lib\application.js - [39m"gate-server-1" finish start
+
+[2013-07-17 14:39:49.850] [INFO] [default] - [32m[2013-07-17 14:39:49.852] [INFO] console - [39m124421
+
+[2013-07-17 14:44:56.618] [INFO] [default] - [32m[2013-07-17 14:44:56.612] [INFO] console - [39m325423
+
+[2013-07-17 17:30:24.872] [INFO] [default] - [32m[2013-07-17 17:30:24.869] [INFO] console - [39m3254
+
